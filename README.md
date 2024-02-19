@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SilviaPyneva
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning for QA
+- 📫 How to reach me - email: silvia.pyneva@gmail.com
